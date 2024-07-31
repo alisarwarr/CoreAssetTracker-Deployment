@@ -1,0 +1,1 @@
+aws secretsmanager create-secret \ --name github-token \ --secret-string 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
